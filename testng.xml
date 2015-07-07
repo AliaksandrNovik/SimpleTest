@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  <suite name="Simple test Suite">
+   <test name="Vmn Player">
+    <classes>
+    	<class name="vmn.simpleTest.test.TestVideoLoader" />
+   	    </classes>
+  </test>
+</suite>	
+
